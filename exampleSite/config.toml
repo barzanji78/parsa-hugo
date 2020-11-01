@@ -1,4 +1,4 @@
-baseurl = "https://tes.netlify.com"
+baseurl = "https://tes2.netlify.com"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
